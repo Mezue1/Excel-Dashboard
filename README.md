@@ -6,5 +6,6 @@ Skills used:
 - Data Cleansing, Manipulation, Analysis, Visualisation
 - Pivot Tables, Formulas, Calculations
 
-![image](https://github.com/Mezue1/Excel-Dashboard/assets/80046187/9c7f6d7f-cc6c-4d51-9027-948cfc3ab672)
+![image](https://github.com/Mezue1/Excel-Dashboard/assets/80046187/c58f1653-cb61-410e-8044-2ddd62095c86)
+
 
